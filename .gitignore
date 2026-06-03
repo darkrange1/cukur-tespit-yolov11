@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# Large files & folders
+yolo11s_road_damage_results.zip
+runs/
+predict_best*/
+predict_kutahya*/
+predict_results*/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
